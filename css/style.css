@@ -19,6 +19,7 @@
   text-decoration: none;
   text-transform: capitalize;
   transition: 0.2s linear;
+  
 }
 
 html {
@@ -88,6 +89,7 @@ section {
   padding: 3rem 9%;
   z-index: 1000;
   background: #fff;
+  
 }
 
 /* .header .logo {
